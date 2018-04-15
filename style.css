@@ -1,0 +1,44 @@
+<style>
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800');
+nav
+{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+ul
+{
+	background-color:#ff3b3f; 
+	text-align: center;
+	padding: 7px;
+	margin: 0px;
+}
+li
+{
+	display: inline-block;
+}
+li a
+{
+	font-family: 'Open Sans', sans-serif;
+	text-decoration: none;
+	color: white;
+	margin-right: 3px;
+	font-size: 18px;
+	padding: 3px; 
+	vertical-align: middle;
+}
+li a:hover
+{
+	background-color:#bd2c2c; 
+	color:#2f3233;
+	padding: 3px;
+	border-radius: 2px;
+}
+#ini
+{
+	background-color: #ff2c2c
+}
+#con
+{
+
+}
+</style>
